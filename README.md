@@ -3,4 +3,4 @@
 ### Given the following HTML:
 
 
-HTMLCode.png
+(/images/HTMLCode.png)
