@@ -3,5 +3,4 @@
 ### Given the following HTML:
 
 ![Image of HTML code]
-(HTMLCode.png)
-
+HTMLCode.png
